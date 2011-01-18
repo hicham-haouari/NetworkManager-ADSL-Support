@@ -90,6 +90,16 @@ global:
 	nm_setting_802_1x_get_type;
 	nm_setting_802_1x_new;
 	nm_setting_802_1x_remove_eap_method;
+	nm_setting_adsl_error_get_type;
+	nm_setting_adsl_error_quark;
+	nm_setting_adsl_get_type;
+	nm_setting_adsl_new;
+	nm_setting_adsl_get_username;
+	nm_setting_adsl_get_password;
+	nm_setting_adsl_get_protocol;
+	nm_setting_adsl_get_encapsulation;
+	nm_setting_adsl_get_vpi;
+	nm_setting_adsl_get_vci;
 	nm_setting_bluetooth_error_get_type;
 	nm_setting_bluetooth_error_quark;
 	nm_setting_bluetooth_get_type;
